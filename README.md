@@ -12,8 +12,7 @@
 <h2>Tambien estoy en:</h2>
 <p align="center"> 
   <a href="https://www.youtube.com/channel/UCDGPEVysmSob0MqdfhjCBtw"><img src="https://img.shields.io/badge/YouTube-FB0000?style=for-the-badge&logo=youtube&labelColor=FB0000" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/devsdav?igsh=MWtvd3J3NDd5eThmMA=="><img src="https://img.shields.io/badge/Instagram-68BFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF
-" />&nbsp;&nbsp;&nbsp;&nbsp;  
+  <a href="https://www.instagram.com/devsdav?igsh=MWtvd3J3NDd5eThmMA=="><img src="https://img.shields.io/badge/Instagram-68BFFF?style=for-the-badge&logo=instagram&logoColor=FFFFFF" />&nbsp;&nbsp;&nbsp;&nbsp;  
   <a href="https://www.twitch.tv/devsdav"><img src="https://img.shields.io/badge/Twitch-8A2BE2?style=for-the-badge&logo=twitch&logoColor=FFFFFF" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://www.linkedin.com/in/diegoarenasv/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
