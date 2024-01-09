@@ -5,14 +5,9 @@
 
 ### Me presento soy "**DevsDav**", un Ingeniero Electrónico que ha encontrado su pasión en programar, me encuentro aprendiendo sobre el mundo del desarrollo y quisiera compartir mi proyectos con ustedes, espero aportar para bien, un abrazo y espero te guste.
 
-<img src = "images/pixelart.png" width = 500px ><style>
-        /* Centrar la imagen */
-        img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
+<h1 align="center">
+<img src = "images/pixelart.png" width = 500px >
+</h1>
 
 <h2>Tambien estoy en:</h2>
 <p align="center"> 
