@@ -3,7 +3,9 @@
 **Ingeniero Civil Electrónico · Desarrollo de software y automatización**  
 Santiago, Chile · [LinkedIn](https://www.linkedin.com/in/diegoarenasv/)
 
-![Pixel art de Diego](./images/pixelart.png)
+<p>
+  <img src="./images/logo.png" alt="Pixel art de Diego" width="150">
+</p>
 
 Me interesa construir herramientas que resuelvan problemas reales y faciliten el trabajo de las personas. Mi experiencia combina programación, sistemas de monitoreo y contacto directo con clientes: entender una necesidad, convertirla en una solución y observar cómo funciona en la práctica.
 
